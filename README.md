@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java, Maria Db, MySQL, Software Development Cycle, design patterns, some UML diagrams...**
 
-- 👨‍💻 All of my projects are available at [Here, in the GitHub...](Here, in the GitHub...)
+- 👨‍💻 All of my projects are available at [here, in the GitHub...](here, in the GitHub...)
 
 - 📫 How to reach me **contato.trindadegabriel@gmail.com**
 
