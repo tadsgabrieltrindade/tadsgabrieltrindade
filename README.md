@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **Java, Maria Db, MySQL, Software Development Cycle, design patterns, some UML diagrams...**
 
-- 👨‍💻 All of my projects are available at [here, in the GitHub...](here, in the GitHub...)
+- 👨‍💻 All of my projects are available at here, in the GitHub...
 
 - 📫 How to reach me **contato.trindadegabriel@gmail.com**
 
-- 📄 Some about me.... [I began the course knowing nothing about technology. I'd just known the basic. I'd worked with some volunteers works, and , the most important to me was a social entrepreneurship with I did in my high school! I'm liking a lot to be here, have the opportunity to participation in the technology evolation.](I began the course knowing nothing about technology. I'd just known the basic. I'd worked with some volunteers works, and , the most important to me was a social entrepreneurship with I did in my high school! I'm liking a lot to be here, have the opportunity to participation in the technology evolation.)
+- 📄 Some about me.... I began the course knowing nothing about technology. I'd just known the basic. I'd worked with some volunteers works, and , the most important to me was a social entrepreneurship with I did in my high school! I'm liking a lot to be here, have the opportunity to participation in the technology evolation.
 
 - ⚡ Fun fact **I like sing...**
 
