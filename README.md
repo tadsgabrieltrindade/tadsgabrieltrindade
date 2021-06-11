@@ -24,5 +24,3 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tadsgabrieltrindade&show_icons=true&theme=dracula&locale=en&layout=compact" alt="tadsgabrieltrindade" /></p>
-
-  ![Snake animation](https://github.com/tadsgabrieltrindade/tadsgabrieltrindade/blob/output/github-contribution-grid-snake.svg)
