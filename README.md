@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Gabriel Trindade
 
-- 🔭 Interessado no back-end
+- 🔭 Gosto muito do back-end
 - 🌱 Estudando Java, Spring Boot, React JS, Javascript, HTML, CSS, Banco de dados, Redes de computadores, Gestão de Projetos, Segurança da Informação, Metodologias Ágeis entre outros...
  
 - 😄 Pronouns: ele/dele
