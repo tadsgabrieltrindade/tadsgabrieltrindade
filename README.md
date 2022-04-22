@@ -2,7 +2,7 @@
 
 - 🔭 Evoluindo constantemente... 
 - 🌱 Estudando Java, Spring Boot, Javascript, HTML, CSS, React JS, React Native, Banco de dados, Redes de computadores, Gestão de Projetos, Segurança da Informação, Metodologias Ágeis entre outros...
-- 👨‍💻 Estagiário na Vivo (Telefônica Brasil) - Canais Alternativos B2B
+- 👨‍💻 Estagiário na Vivo (Telefônica Brasil) - VP B2B
 - 😄 Pronouns: ele/dele
 
 <div>
