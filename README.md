@@ -2,7 +2,7 @@
 
 - Software Developer 👨🏼‍💻
 - Last year of graduation in Systems Analysis and Development at IFSP (Instituto Federal de Educação, Ciência e Tecnologia de São Paulo)
-- Intern at Vivo (Telefônica Brasil) - VP B2B
+- Developer and Sales Support Analyst at Vivo (Telefônica Brasil) - VP B2B
 <br/>
 
 ## Technologies
