@@ -1,6 +1,6 @@
 #  Hi there! I'm Gabriel Trindade 😉
 
-- Software Developer 👨🏼‍💻
+- Software Developer 
 - Graduated in Systems Analysis and Development from IFSP (Federal Institute of Education, Science and Technology of São Paulo)
 - Developer and Sales Support Analyst at Vivo (Telefônica Brasil)
 <br/>
