@@ -2,7 +2,7 @@
 
 - Software Developer 
 - Graduation in Systems Analysis and Development from IFSP (Federal Institute of Education, Science and Technology of São Paulo)
-- Developer and Sales Support Analyst at Vivo (Telefônica Brasil)
+- Commercial Quality Analyst at Vivo (Telefônica Brasil)
 <br/>
 
 ## Technologies
