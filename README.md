@@ -8,7 +8,8 @@
 
 ## 🚀 About Me  
 - Focused on **.NET ecosystem**: C#, ASP.NET, .NET Aspire, APIs, and Background Services.  
-- Experience with **SQL Server, MySQL, and data-driven applications**.  
+- Experience with **SQL Server, MySQL, MongoDB, and data-driven applications**.  
+- Working with **Docker** for containerization and deployment.  
 - Interest in **automation, microservices communication** (e.g. RabbitMQ), and **performance optimization**.  
 - Always looking to improve **UX/UI** and **developer productivity** with modern tools and best practices.  
 
@@ -23,6 +24,8 @@
  <img align="center" alt="Gabriel-visualstudio" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
  <img align="center" alt="Gabriel-sqlserver" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" /> 
  <img align="center" alt="Gabriel-mysql" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+ <img align="center" alt="Gabriel-mongodb" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+ <img align="center" alt="Gabriel-docker" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
  <img align="center" alt="Gabriel-js" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
  <img align="center" alt="Gabriel-python" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
  <img align="center" alt="Gabriel-java" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -50,4 +53,4 @@
 
 ---
 
-![Snake animation](https://github.com/tadsgabrieltrindade/tadsgabrieltrindade/blob/output/github-contribution-grid-snake.svg)  
+![Snake animation](https://github.com/tadsgabrieltrindade/tadsgabrieltrindade/blob/output/github-contribution-grid-snake.svg)
