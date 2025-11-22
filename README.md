@@ -4,9 +4,7 @@
 
 ### Software Developer | .NET Specialist | Quality Analyst
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tadsgabrieltrindade)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:developer.gabrieltrindade@gmail.com)
-[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://altiortech.com.br/)
+[![Website](https://img.shields.io/badge/🌐_Altior_Tech-4285F4?style=for-the-badge&logoColor=white)](https://altiortech.com.br/)
 
 </div>
 
@@ -103,9 +101,10 @@ public class GabrielTrindade
 
 ---
 
-## 🎓 Certifications & Learning
+## 🎓 Education & Certifications
 
-- 🎯 Systems Analysis and Development - IFSP
+- 🎓 **Postgraduate in Software Architecture** - FIAP *(Nov/2025 - Dec/2026)*
+- 🎯 **Systems Analysis and Development** - IFSP
 - 📚 Continuous learning in .NET ecosystem, microservices, and cloud technologies
 - 🔧 Hands-on experience with containerization and orchestration
 
@@ -117,9 +116,7 @@ public class GabrielTrindade
 
 **Open to collaborations, tech discussions, and opportunities!**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tadsgabrieltrindade)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:developer.gabrieltrindade@gmail.com)
-[![Website](https://img.shields.io/badge/🌐_Altior_Tech-4285F4?style=for-the-badge&logoColor=white)](https://altiortech.com.br/)
+[![Website](https://img.shields.io/badge/🌐_Visit_My_Website-4285F4?style=for-the-badge&logoColor=white)](https://altiortech.com.br/)
 
 </div>
 
