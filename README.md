@@ -104,7 +104,7 @@ public class GabrielTrindade
 ## 🎓 Education & Certifications
 
 - 🎓 **Postgraduate in Software Architecture** - FIAP *(Nov/2025 - Dec/2026)*
-- 🎯 **Systems Analysis and Development** - IFSP
+- 🎯 **Systems Analysis and Development** - IFSP (2020 - 2023)
 - 📚 Continuous learning in .NET ecosystem, microservices, and cloud technologies
 - 🔧 Hands-on experience with containerization and orchestration
 
