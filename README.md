@@ -4,7 +4,7 @@
 
 ### Software Developer | .NET Specialist | Quality Analyst
 
-[![Website](https://img.shields.io/badge/🌐_Altior_Tech-4285F4?style=for-the-badge&logoColor=white)](https://altiortech.com.br/)
+[![Website](https://img.shields.io/badge/%F0%9F%8C%90_Meu_Site-4285F4?style=for-the-badge&logoColor=white)](https://www.gabrieltrindade.dev)
 
 </div>
 
