@@ -4,7 +4,7 @@
 
 ### Software Developer | .NET Specialist | Quality Analyst
 
-[![Website](https://img.shields.io/badge/%F0%9F%8C%90_Meu_Site-4285F4?style=for-the-badge&logoColor=white)](https://www.gabrieltrindade.dev)
+
 
 </div>
 
@@ -94,9 +94,7 @@ public class GabrielTrindade
 </div>
 
 <div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tadsgabrieltrindade&theme=tokyonight&border_radius=10)](https://git.io/streak-stats)
-
+    [![GitHub Streak](https://streak-stats.demolab.com?user=tadsgabrieltrindade)](https://git.io/streak-stats)
 </div>
 
 ---
@@ -116,7 +114,7 @@ public class GabrielTrindade
 
 **Open to collaborations, tech discussions, and opportunities!**
 
-[![Website](https://img.shields.io/badge/🌐_Visit_My_Website-4285F4?style=for-the-badge&logoColor=white)](https://altiortech.com.br/)
+[![Website](https://img.shields.io/badge/🌐_Visit_My_Website-4285F4?style=for-the-badge&logoColor=white)](https://gabrieltrindade.dev)
 
 </div>
 
