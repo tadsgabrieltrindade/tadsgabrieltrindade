@@ -85,22 +85,12 @@ public class GabrielTrindade
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tadsgabrieltrindade&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tadsgabrieltrindade&layout=compact&langs_count=8&theme=tokyonight&border_radius=10"/>
-</div>
-
-<div align="center">
-    [![GitHub Streak](https://streak-stats.demolab.com?user=tadsgabrieltrindade)](https://git.io/streak-stats)
-</div>
 
 ---
 
 ## 🎓 Education & Certifications
 
-- 🎓 **Postgraduate in Software Architecture** - FIAP *(Nov/2025 - Dec/2026)*
+- 🎓 **Postgraduate in Software Architecture** - FIAP *(Mar/2026 - Dec/2026)*
 - 🎯 **Systems Analysis and Development** - IFSP (2020 - 2023)
 - 📚 Continuous learning in .NET ecosystem, microservices, and cloud technologies
 - 🔧 Hands-on experience with containerization and orchestration
