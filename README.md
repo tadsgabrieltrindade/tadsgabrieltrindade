@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Gabriel Trindade
+# Hi, I'm Gabriel Trindade 👋
 
 ### Software Engineer · .NET · Java · Python · AI-Powered Systems · Microservices & Cloud
 
