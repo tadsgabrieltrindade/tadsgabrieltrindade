@@ -2,9 +2,7 @@
 
 # 👨‍💻 Gabriel Trindade
 
-### Software Developer | .NET Specialist | Quality Analyst
-
-
+### Software Engineer · .NET · Java · Python · AI-Powered Systems · Microservices & Cloud
 
 </div>
 
@@ -12,88 +10,64 @@
 
 ## 🎯 About Me
 
-```csharp
-public class GabrielTrindade 
-{
-    public string Role => "Software Developer";
-    public string Company => "Vivo (Telefônica Brasil)";
-    public string Position => "Commercial Quality Analyst";
-    public string Education => "Systems Analysis and Development @ IFSP";
-    
-    public List<string> Interests => new() 
-    {
-        "Building efficient systems",
-        "Microservices architecture",
-        "Background services & automation",
-        "Process optimization",
-        "Clean code & best practices"
-    };
-}
-```
+Software Engineer & Systems Architect with 6+ years delivering business-driven solutions at Vivo (Telefônica Brasil). My core stack is .NET (C#), Java/Spring Boot and Python for automation and AI pipelines. I help businesses build smarter, more efficient operations through technology — combining solid engineering with real business understanding, from architecture to delivery.
+
+Currently deep into AI-powered systems: RAG pipelines, LLM integrations, and agent orchestration applied to real workflows that save time and scale.
+
+- 🏢 **Mid-Level Analyst** @ Vivo (Telefônica Brasil)
+- 🤖 Building **RAG pipelines, AI Agents & LLM integrations**
+- 🏗️ **Microservices** with Clean Architecture, DDD & CQRS
+- ☁️ Cloud: **AWS · Azure · Oracle Cloud**
+- 🌐 English B2 · FIAP Software Architecture (2026)
 
 ---
 
 ## 🚀 Tech Stack
 
-### **Core Technologies**
+### Core
 <div align="center">
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-</div>
-
-### **Databases**
-<div align="center">
-
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-</div>
-
-### **DevOps & Tools**
-<div align="center">
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
-### **Additional Skills**
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Claude AI](https://img.shields.io/badge/Claude_AI-CC785C?style=for-the-badge&logoColor=white)
 
 </div>
+
+### Full Stack
+
+| Category | Technologies |
+|---|---|
+| 🌐 **.NET Ecosystem** | C# · .NET Core · ASP.NET MVC · Blazor · Entity Framework |
+| 🧩 **Multi-Stack** | Python · FastAPI · Java · Spring Boot · JavaScript · React |
+| 🗄️ **Database & Data** | SQL Server · PostgreSQL · MySQL · Redis |
+| 🤖 **AI & LLMs** | Claude AI · RAG Pipelines · AI Agents · LLMs · Prompt Engineering |
+| ☁️ **Cloud & DevOps** | AWS · Azure · Oracle Cloud · Docker · Git |
+| 🔗 **Integration** | REST APIs · RabbitMQ · Webhooks · Power Automate |
+| 🏛️ **Architecture** | Clean Architecture · DDD · CQRS · Vertical Slice · Microservices · SOLID |
 
 ---
 
 ## 💼 What I'm Working On
 
-- 🔨 **Building microservices** with .NET and Docker
-- 🔄 **Implementing background services** for process automation
-- 📊 **Optimizing data-driven applications** with SQL and NoSQL databases
-- 🐰 **Exploring message brokers** like RabbitMQ for async communication
-- 🎯 **Improving UX/UI** and developer productivity
-
----
-
+- 🤖 **Building AI-powered systems** — RAG pipelines, LLM integrations, and AI agent orchestration applied to real business workflows
+- 🏗️ **Designing microservices** with .NET, Clean Architecture, and DDD — focused on scalability and maintainability
+- ⚡ **Automating processes** with Python ETL pipelines and event-driven architectures (RabbitMQ, webhooks)
+- ☁️ **Exploring cloud-native solutions** on AWS, Azure, and Oracle Cloud
+- 📐 **Applying architecture patterns** — CQRS, Vertical Slice, and SOLID in production systems
 
 ---
 
 ## 🎓 Education & Certifications
 
-- 🎓 **Postgraduate in Software Architecture** - FIAP *(Mar/2026 - Dec/2026)*
-- 🎯 **Systems Analysis and Development** - IFSP (2020 - 2023)
-- 📚 Continuous learning in .NET ecosystem, microservices, and cloud technologies
-- 🔧 Hands-on experience with containerization and orchestration
+- 🎓 **Postgraduate in Software Architecture** — FIAP *(Feb/2026 - Dec/2026)*
+- 🎯 **Systems Analysis and Development Technologist** — IFSP *(2020 - 2023)*
+- 🌐 **English B2 Intermediate** — Cambly *(Aug/2025 - Present)*
+- 📚 Continuous learning in .NET ecosystem, AI/LLMs, microservices, and cloud technologies
 
 ---
 
